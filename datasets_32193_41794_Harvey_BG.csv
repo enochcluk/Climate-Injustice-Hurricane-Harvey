@@ -1,4 +1,4 @@
-    State,County,Tract,BLKGRP,Geography,Pop_Total,NH_White,NH_Black,NH_AmInd_A,NH_Asian,NH_Native_,NH_Some_Ot,NH_Two_Mor,Hispanic,Households,Housing_Un,Occupied,Vacant,MHI_ACS,Count_Affe,Children_U,SeniorCiti,Count_Af_1,Shape_Leng,Shape_Area
+State,County,Tract,BLKGRP,Geography,Pop_Total,NH_White,NH_Black,NH_AmInd_A,NH_Asian,NH_Native_,NH_Some_Ot,NH_Two_Mor,Hispanic,Households,Housing_Un,Occupied,Vacant,MHI_ACS,Count_Affe,Children_U,SeniorCiti,Count_Af_1,Shape_Leng,Shape_Area
 48,157,670101,1,"Block Group 1, Census Tract 6701.01, Fort Bend County, Texas",1092.0,54.0,248.0,0.0,0.0,0.0,0.0,10.0,780.0,285.0,311.0,285.0,26.0,47321.0,40,142.0,112.0,39,11380.0910471,4257484.04386
 48,157,670101,2,"Block Group 2, Census Tract 6701.01, Fort Bend County, Texas",1821.0,0.0,577.0,0.0,0.0,0.0,0.0,0.0,1244.0,466.0,517.0,466.0,51.0,39196.0,79,87.0,129.0,79,12471.4903329,6885015.93597
 48,157,670101,3,"Block Group 3, Census Tract 6701.01, Fort Bend County, Texas",2974.0,34.0,1676.0,0.0,0.0,0.0,0.0,68.0,1196.0,790.0,912.0,790.0,122.0,49474.0,230,277.0,203.0,224,22028.6266411,21708600.6822
